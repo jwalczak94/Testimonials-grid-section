@@ -1,0 +1,26 @@
+// backgrouds
+.violet {
+    background: url(/dist/images/bg-pattern-quotation.svg) $Violet no-repeat top right 5rem;
+}
+
+.light-grey {
+    background-color: $GrayishBlue;
+}
+
+.dark-grey {
+    background-color: $BlackishBlue;
+}
+
+.light {
+    background-color: $White;
+    color: $GrayishBlue;
+}
+
+// text-opacity
+.op-50 {
+    opacity: 50%;
+}
+
+.op-70 {
+    opacity: 70%;
+}
